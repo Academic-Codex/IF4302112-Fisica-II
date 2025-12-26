@@ -1,0 +1,12 @@
+REPO_TAGLINE: Harmonical Oscilator • Thermodynamics • Waves Mechanics
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: notes
+SITE_URL: https://academic-codex.github.io/IF4302112-Fisica-II
+
+BG_1: "#0B1220"
+BG_2: "#7C3AED"
+TEXT_MAIN: "#F5F3FF"
+TEXT_MUTED: "#DDD6FE"
+ACCENT: "#A78BFA"
+CARD_RADIUS: "18"
